@@ -4,9 +4,9 @@ I am a former product manager who has now transitioned into the world of full st
 My journey into software engineering has been an exciting one, and I am constantly seeking new challenges to develop my skills and knowledge. I believe that software engineering is not just about coding, but also about understanding users' needs and delivering products that can make a difference in their lives.
 
 
-- 👾 I’m currently working on building web applications using React and creating games using Lua and Love2d.
+- 👾 I’m currently working on building web applications using React and creating games using Lua/Love2d and C#/Unity.
 
-- ☕ I’m also currently learning Java, especially for data structures and algorithms!
+- ☕ I’m also practicing Java, especially for studying data structures and algorithms!
 
 - 🤝 I’m looking to collaborate on open source projects.
 
@@ -22,7 +22,9 @@ My journey into software engineering has been an exciting one, and I am constant
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frameworks
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### Runtime Environment
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
