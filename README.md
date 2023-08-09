@@ -26,3 +26,6 @@ I am a former product manager who has now transitioned into the world of full st
 
 ### Runtime Environment
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Badges
+![unity-junior-programmer](https://github.com/djtanner/djtanner/assets/3960256/549b1af4-e753-4542-bf95-d81438f8ef42)
