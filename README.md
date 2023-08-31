@@ -4,7 +4,7 @@ I am a former product manager who has now transitioned into the world of full st
 
 - 👾 I’m currently working on building web applications mostly using React and Flask and creating games using Lua/Love2d and C#/Unity.
 
-- ☕ I’m also practicing Java, especially for studying data structures and algorithms!
+- ☕ I also enjoy coding in Java, especially for studying data structures and algorithms!
 
 - 🤝 I’m looking to collaborate on open source projects.
 
