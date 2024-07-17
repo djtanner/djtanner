@@ -1,14 +1,11 @@
 ### Hi there 👋
 I am a former product manager who has now transitioned into the world of full stack software engineering. My passion for building and creating software led me to dive into the world of building web applications, game development, and AI.
 
+ ⚡ I'm interested in building game engines and tools in C++.
 
-- 👾 I’m currently working on building web applications mostly using React and Flask and creating games using Lua/Love2d and C#/Unity.
+ 👾 I've built web applications mostly using React and Flask and enjoy creating games using Lua/Love2d and C#/Unity.
 
-- ☕ I also enjoy coding in Java, especially for studying data structures and algorithms!
-
-- 🤝 I’m looking to collaborate on open source projects.
-
-- ⚡ Ask me about which Legend of Zelda game is my favorite.
+ ☕ I also enjoy coding in Java, especially for studying data structures and algorithms. And for modding Minecraft.
 
 
 
