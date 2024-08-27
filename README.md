@@ -28,4 +28,5 @@ I am a former product manager who has now transitioned into the world of full st
 ### Badges
 ![unity-junior-programmer](https://github.com/djtanner/djtanner/assets/3960256/549b1af4-e753-4542-bf95-d81438f8ef42)
 <img src = "https://github.com/djtanner/djtanner/assets/3960256/a834e0b7-af26-457a-87bf-80bc356278e3" width="150">
+<img src = "https://github.com/user-attachments/assets/58eb4603-5c6c-4002-b760-d8e8568de8ac" width="150">
 
